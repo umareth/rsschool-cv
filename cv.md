@@ -21,3 +21,8 @@ return x.split('').filter((space)=>space.trim()!='').join('');
 
 ## Education
 * GGNTU: IPIT 2018-2022
+
+## Languages
+* **Chechen** - native
+* **Russian** - native
+* **English** - 0 lvl
